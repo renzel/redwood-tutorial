@@ -9,6 +9,7 @@
   port = 8910
   apiUrl = "/.netlify/functions"
   title = "Redwood Tutorial Blog"
+  includeEnvironmentVariables = ['NODE_ENV']
 [api]
   port = 8911
 [browser]
